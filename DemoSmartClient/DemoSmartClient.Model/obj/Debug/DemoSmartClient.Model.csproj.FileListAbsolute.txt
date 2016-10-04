@@ -1,0 +1,10 @@
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Model\bin\Debug\DemoSmartClient.Model.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Model\bin\Debug\DemoSmartClient.Model.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Model\obj\Debug\DemoSmartClient.Model.csprojResolveAssemblyReference.cache
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Model\obj\Debug\DemoSmartClient.Model.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Model\obj\Debug\DemoSmartClient.Model.pdb
+D:\DemoSmartClient\DemoSmartClient.Model\bin\Debug\DemoSmartClient.Model.dll
+D:\DemoSmartClient\DemoSmartClient.Model\bin\Debug\DemoSmartClient.Model.pdb
+D:\DemoSmartClient\DemoSmartClient.Model\obj\Debug\DemoSmartClient.Model.dll
+D:\DemoSmartClient\DemoSmartClient.Model\obj\Debug\DemoSmartClient.Model.pdb
+D:\DemoSmartClient\DemoSmartClient.Model\obj\Debug\DemoSmartClient.Model.csprojResolveAssemblyReference.cache

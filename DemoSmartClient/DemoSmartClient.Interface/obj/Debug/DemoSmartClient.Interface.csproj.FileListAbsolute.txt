@@ -1,0 +1,14 @@
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Interface\bin\Debug\DemoSmartClient.Interface.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Interface\bin\Debug\DemoSmartClient.Interface.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Interface\obj\Debug\DemoSmartClient.Interface.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Interface\obj\Debug\DemoSmartClient.Interface.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Interface\bin\Debug\DemoSmartClient.Model.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Interface\bin\Debug\DemoSmartClient.Model.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Interface\obj\Debug\DemoSmartClient.Interface.csprojResolveAssemblyReference.cache
+D:\DemoSmartClient\DemoSmartClient.Interface\bin\Debug\DemoSmartClient.Interface.dll
+D:\DemoSmartClient\DemoSmartClient.Interface\bin\Debug\DemoSmartClient.Interface.pdb
+D:\DemoSmartClient\DemoSmartClient.Interface\bin\Debug\DemoSmartClient.Model.dll
+D:\DemoSmartClient\DemoSmartClient.Interface\bin\Debug\DemoSmartClient.Model.pdb
+D:\DemoSmartClient\DemoSmartClient.Interface\obj\Debug\DemoSmartClient.Interface.csprojResolveAssemblyReference.cache
+D:\DemoSmartClient\DemoSmartClient.Interface\obj\Debug\DemoSmartClient.Interface.dll
+D:\DemoSmartClient\DemoSmartClient.Interface\obj\Debug\DemoSmartClient.Interface.pdb

@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <style>
+        html {
+            height: 100%;
+        }
+
+            html body {
+                height: 100%;
+                overflow: hidden;
+                display: flex;
+                flex-direction: column;
+            }
+
+                html body .container-fluid.body-content {
+                    width: 100%;
+                    height: 100%;
+                    overflow-y: auto;
+                }
+
+        header {
+            background-color: black;
+            min-height: 50px;
+            width: 100%;
+            color: white;
+            font-size: large;
+        }
+
+        footer {
+            background-color: black;
+            min-height: 30px;
+            width: 100%;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="text-left header">
+                Smart APP
+            </div>
+            <div class="text-right header">
+                @Html.ActionLink("Logout", "Users", "Login")
+            </div>
+        </div>
+    </header>
+    <div class="container-fluid body-content">
+        @RenderBody()
+    </div>
+    <footer>
+        <div class="container">
+            <div class="text-center footer">
+                Developed By <a href="mailto:saihacksoft@gmail.com">Saineshwar Bageri</a>
+            </div>
+        </div>
+    </footer>
+    @Scripts.Render("~/bundles/jquery")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+
+
+
+

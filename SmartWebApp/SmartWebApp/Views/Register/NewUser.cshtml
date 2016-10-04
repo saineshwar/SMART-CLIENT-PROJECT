@@ -1,0 +1,84 @@
+﻿@model SmartWebApp.Model.Registration
+@{
+    ViewBag.Title = "NewUser";
+}
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+   
+    <div class="container">
+        <br />
+        <div class="row">
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.FirstName)
+                @Html.TextBoxFor(model => model.FirstName, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.FirstName)
+            </div>
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Lastname)
+
+                @Html.TextBoxFor(model => model.Lastname, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.Lastname)
+            </div>
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Gender)
+                @Html.RadioButtonFor(model => model.Gender, "M")@Html.Label("Male")
+                @Html.RadioButtonFor(model => model.Gender, "F")@Html.Label("Female")
+                @Html.ValidationMessageFor(model => model.Gender)
+            </div>
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Username)
+                @Html.TextBoxFor(model => model.Username, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.Username)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Password)
+                @Html.PasswordFor(model => model.Password, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.Password)
+            </div>
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.ConfirmPassword)
+                @Html.PasswordFor(model => model.ConfirmPassword, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.ConfirmPassword)
+            </div>
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Mobileno)
+                @Html.TextBoxFor(model => model.Mobileno, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.Mobileno)
+            </div>
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.EmailID)
+                @Html.TextBoxFor(model => model.EmailID, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.EmailID)
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-3">
+                <input type="submit" class="btn btn-success" value="Register" />
+            </div>
+        </div>
+        <br />
+        @if (TempData["Message"] != "" && TempData["Message"] != null)
+        {
+            <div class="row">
+                <div class="col-md-6">
+                    @TempData["Message"]
+                    <br />
+                    Click Here to Login :-  @Html.ActionLink("Login", "Users", "Login")
+                </div>
+            </div>
+        }
+
+    </div>
+
+}
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -1,0 +1,12 @@
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\SmartWebApp.Concrete.dll
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\SmartWebApp.Concrete.pdb
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\SmartWebApp.Interface.dll
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\SmartWebApp.Model.dll
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\SmartWebApp.Interface.pdb
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\SmartWebApp.Model.pdb
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\obj\Debug\SmartWebApp.Concrete.csprojResolveAssemblyReference.cache
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\obj\Debug\SmartWebApp.Concrete.dll
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\obj\Debug\SmartWebApp.Concrete.pdb
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\Dapper.dll
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\Dapper.pdb
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Concrete\bin\Debug\Dapper.xml

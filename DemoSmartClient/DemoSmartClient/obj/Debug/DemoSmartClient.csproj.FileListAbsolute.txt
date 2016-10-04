@@ -1,0 +1,39 @@
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.exe
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.Properties.Resources.resources
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.csproj.GenerateResource.Cache
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.exe
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\LiteDB.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.AddProduct.resources
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.Login.resources
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.BL.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Interface.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Model.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.BL.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Interface.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Model.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.csprojResolveAssemblyReference.cache
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Concrete.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Concrete.pdb
+D:\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.exe
+D:\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.pdb
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.exe
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.pdb
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.BL.dll
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Concrete.dll
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Interface.dll
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Model.dll
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.BL.pdb
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Concrete.pdb
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Interface.pdb
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.Model.pdb
+D:\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.csprojResolveAssemblyReference.cache
+D:\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.AddProduct.resources
+D:\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.Login.resources
+D:\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.Properties.Resources.resources
+D:\DemoSmartClient\DemoSmartClient\obj\Debug\DemoSmartClient.csproj.GenerateResource.Cache
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\DemoSmartClient.exe.config
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\Newtonsoft.Json.dll
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\Newtonsoft.Json.xml
+D:\DemoSmartClient\DemoSmartClient\bin\Debug\System.Data.SQLite.dll

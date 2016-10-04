@@ -1,0 +1,49 @@
+﻿@model SmartWebApp.Model.LoginViewModel
+@{
+    ViewBag.Title = "Users";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    if (TempData["Message"] != "")
+    {
+    <div style="background-color: red;">@TempData["Message"]</div>
+    }
+       
+    <div class="container">
+        <br />
+        <div class="row">
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Username)
+                @Html.TextBoxFor(model => model.Username, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.Username)
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                @Html.LabelFor(model => model.Password)
+                @Html.PasswordFor(model => model.Password, new { @class = "form-control", autocomplete = "off" })
+                @Html.ValidationMessageFor(model => model.Password)
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-3">
+                <input type="submit" class="btn btn-success" value="Login" />
+            </div>
+        </div>
+        <br />
+        <div class="row">
+            <div class="col-md-6">
+             Click here for New Registration  @Html.ActionLink("Register", "NewUser", "Register")
+            </div>
+        </div>
+    </div>
+}
+@section Scripts 
+{
+    @Scripts.Render("~/bundles/jqueryval")
+}

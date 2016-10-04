@@ -1,0 +1,26 @@
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Concrete.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Concrete.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\obj\Debug\DemoSmartClient.Concrete.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\obj\Debug\DemoSmartClient.Concrete.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Interface.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Interface.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\obj\Debug\DemoSmartClient.Concrete.csprojResolveAssemblyReference.cache
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Model.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Model.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\LiteDB.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Concrete.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Concrete.pdb
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Interface.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Model.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Interface.pdb
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Model.pdb
+D:\DemoSmartClient\DemoSmartClient.Concrete\obj\Debug\DemoSmartClient.Concrete.csprojResolveAssemblyReference.cache
+D:\DemoSmartClient\DemoSmartClient.Concrete\obj\Debug\DemoSmartClient.Concrete.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\obj\Debug\DemoSmartClient.Concrete.pdb
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\DemoSmartClient.Concrete.dll.config
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\EntityFramework.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\EntityFramework.SqlServer.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\System.Data.SQLite.EF6.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\System.Data.SQLite.Linq.dll
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\EntityFramework.xml
+D:\DemoSmartClient\DemoSmartClient.Concrete\bin\Debug\EntityFramework.SqlServer.xml

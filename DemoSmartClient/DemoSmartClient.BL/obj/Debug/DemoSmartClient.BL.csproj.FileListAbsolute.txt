@@ -1,0 +1,25 @@
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.BL.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.BL.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\obj\Debug\DemoSmartClient.BL.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\obj\Debug\DemoSmartClient.BL.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Concrete.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Interface.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Concrete.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Interface.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\obj\Debug\DemoSmartClient.BL.csprojResolveAssemblyReference.cache
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Model.dll
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Model.pdb
+C:\Users\sai\Documents\Visual Studio 2012\DemoSmartClient\DemoSmartClient.BL\bin\Debug\LiteDB.dll
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.BL.dll
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.BL.pdb
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Concrete.dll
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Interface.dll
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Model.dll
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Concrete.pdb
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Interface.pdb
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.Model.pdb
+D:\DemoSmartClient\DemoSmartClient.BL\obj\Debug\DemoSmartClient.BL.csprojResolveAssemblyReference.cache
+D:\DemoSmartClient\DemoSmartClient.BL\obj\Debug\DemoSmartClient.BL.dll
+D:\DemoSmartClient\DemoSmartClient.BL\obj\Debug\DemoSmartClient.BL.pdb
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\System.Data.SQLite.dll
+D:\DemoSmartClient\DemoSmartClient.BL\bin\Debug\DemoSmartClient.BL.dll.config

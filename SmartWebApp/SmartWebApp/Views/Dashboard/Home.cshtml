@@ -1,0 +1,26 @@
+﻿@model IEnumerable<SmartWebApp.Model.Product>
+@using GridMvc.Html
+@{  
+    Layout = "~/Views/Shared/_MainLayout.cshtml";  
+}
+
+
+<link href="~/Content/Gridmvc.css" rel="stylesheet" />
+<link href="~/bootstrap/css/bootstrap.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-1.8.2.js"></script>
+<script src="~/Scripts/gridmvc.min.js"></script>
+<div class="container">
+    <div class="col-sm-12 col-md-12">
+        <h3>Details</h3>
+        @Html.Grid(Model).Columns(columns =>
+    {
+        columns.Add(c => c.ProductID).Titled("Product ID").Filterable(true);
+        columns.Add(c => c.Name).Titled("Name").Filterable(true);
+        columns.Add(c => c.Price).Titled("Price").Filterable(true);
+        columns.Add(c => c.ProductNumber).Titled("Product Number").Filterable(true);
+        columns.Add(c => c.ProductClass).Titled("Product Class").Filterable(true);
+        columns.Add(c => c.Color).Titled("Color").Filterable(true);
+        columns.Add(c => c.CreatedDate).Titled("CreatedDate").Filterable(true);
+    }).WithPaging(10).Sortable(true)
+    </div>
+</div>

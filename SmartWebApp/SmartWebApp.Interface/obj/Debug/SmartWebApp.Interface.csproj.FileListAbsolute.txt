@@ -1,0 +1,7 @@
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Interface\bin\Debug\SmartWebApp.Interface.dll
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Interface\bin\Debug\SmartWebApp.Interface.pdb
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Interface\bin\Debug\SmartWebApp.Model.dll
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Interface\bin\Debug\SmartWebApp.Model.pdb
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Interface\obj\Debug\SmartWebApp.Interface.csprojResolveAssemblyReference.cache
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Interface\obj\Debug\SmartWebApp.Interface.dll
+C:\Users\sai\Documents\Visual Studio 2012\SmartWebApp\SmartWebApp.Interface\obj\Debug\SmartWebApp.Interface.pdb
